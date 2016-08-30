@@ -1,0 +1,12 @@
+C:\Users\Symon\Desktop\IWD\INFO 31114 - OOP for Web Development\Login\Login\bin\Login.dll.config
+C:\Users\Symon\Desktop\IWD\INFO 31114 - OOP for Web Development\Login\Login\bin\Login.dll
+C:\Users\Symon\Desktop\IWD\INFO 31114 - OOP for Web Development\Login\Login\bin\Login.pdb
+C:\Users\Symon\Desktop\IWD\INFO 31114 - OOP for Web Development\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Symon\Desktop\IWD\INFO 31114 - OOP for Web Development\Login\Login\obj\Debug\Login.dll
+C:\Users\Symon\Desktop\IWD\INFO 31114 - OOP for Web Development\Login\Login\obj\Debug\Login.pdb
+E:\IWD-Term 2\INFO 31114 - OOP for Web Development\Login\Login\bin\Login.dll.config
+E:\IWD-Term 2\INFO 31114 - OOP for Web Development\Login\Login\bin\Login.dll
+E:\IWD-Term 2\INFO 31114 - OOP for Web Development\Login\Login\bin\Login.pdb
+E:\IWD-Term 2\INFO 31114 - OOP for Web Development\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\IWD-Term 2\INFO 31114 - OOP for Web Development\Login\Login\obj\Debug\Login.dll
+E:\IWD-Term 2\INFO 31114 - OOP for Web Development\Login\Login\obj\Debug\Login.pdb
